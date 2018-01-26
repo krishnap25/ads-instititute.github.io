@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Proximal point algorithm revisited, episode 2: the prox-linear algorithm
+title:      Proximal point algorithm revisited, episode 2 - the prox-linear algorithm
 date:       2018-01-24 17:02:00 -0700
-summary:    Revisiting the proximal point method: composite models and the prox-linear algorithm.
+summary:    Revisiting the proximal point method - composite models and the prox-linear algorithm.
 author:     Dmitriy Drusvyatskiy
 image:      images/prox.png
 image_url:  http://sites.math.washington.edu/~ddrusv/
