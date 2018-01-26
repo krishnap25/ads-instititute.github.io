@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Proximal point algorithm revisited, episode 1: the proximally guided subgradient method
+title:      Proximal point algorithm revisited, episode 1 - the proximally guided subgradient method
 date:       2018-01-24 17:01:00 -0700
-summary:    Revisiting the proximal point method: the proximally guided subgradient method for stochastic optimization.
+summary:    Revisiting the proximal point method - the proximally guided subgradient method for stochastic optimization.
 author:     Dmitriy Drusvyatskiy
 image:      images/prox.png
 image_url:  http://sites.math.washington.edu/~ddrusv/
